@@ -1,0 +1,66 @@
+{
+    "users":[
+        {
+            "id":"501",
+            "firstname": "Ramesh",
+            "lastname": "Adapa",
+            "email": "adapa.ramesh123456@gmail.com",
+            "age": "30"
+        },
+        {
+            "id":"502",
+            "firstname": "Ramesh",
+            "lastname": "Adapa",
+            "email": "adapa.ramesh123456@gmail.com",
+            "age": "40"
+        },
+        {
+            "id":"503",
+            "firstname": "Ramesh",
+            "lastname": "Adapa",
+            "email": "adapa.ramesh123456@gmail.com",
+            "age": "50"
+        },
+        {
+            "id":"504",
+            "firstname": "Ramesh",
+            "lastname": "Adapa",
+            "email": "adapa.ramesh123456@gmail.com",
+            "age": "50"
+        },
+        {
+            "id":"505",
+            "firstname": "Ramesh",
+            "lastname": "Adapa",
+            "email": "adapa.ramesh123456@gmail.com",
+            "age": "60"
+        },
+        {
+            "id":"506",
+            "firstname": "Ramesh",
+            "lastname": "Adapa",
+            "email": "adapa.ramesh123456@gmail.com",
+            "age": "70"
+        }
+    ],
+    "companies":[
+        {
+        
+                "id":"100000",
+                "name": "apple",
+                "desc": "It's an iphone"
+            
+        },
+        {
+            "id":"200000",
+            "name": "microsoft",
+            "desc": "It's an microsoft"
+        },
+        {
+            "id":"300000",
+            "name": "Google",
+            "desc": "It's an google"
+        }
+        
+    ]
+}
